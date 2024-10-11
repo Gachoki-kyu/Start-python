@@ -17,3 +17,17 @@ for t in "banana":
     print(t)  #print the string banana in each character
 for w in range(0,5):
  print(w) #prints numbers from 0 to 4
+
+ #while loop
+q = 0
+#while q <= 10:
+    #print(q)
+  #  q+=1
+    # prints from 0 to 10
+
+while q <= 10:
+    print(q)
+    
+    if q == 3:
+        break
+    q+=1
