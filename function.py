@@ -19,3 +19,8 @@ def my_recu(k):
 
 print("recursive numbers:")
 my_recu(6)
+
+#lambda function
+# this type of a function takes any number of arquiments
+x = lambda a,b : a * b
+print(x(4,5)) # multiplies 5 and 4
