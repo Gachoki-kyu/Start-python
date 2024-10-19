@@ -29,8 +29,3 @@ man1.move()
 p = dog("wendy",4)
 p.move()
 p.speak()
-
-   
-
-
-
