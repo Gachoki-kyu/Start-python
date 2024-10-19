@@ -17,6 +17,6 @@ x.close()
 #deleting a file
 import os
 try:
-    os.remove("demo.txt")
+    os.remove("numpy.py")
 except:
     print("file does not exist")
